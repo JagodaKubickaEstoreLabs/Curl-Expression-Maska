@@ -67,7 +67,7 @@ section{
 }
 #es-loreal.es-loreal .es-kv {
   padding-top: 8px;
-  background: url(img/KV.png)
+  background: url(https://628741b632da261a93001699--velvety-meringue-9573ea.netlify.app/img/KV.png)
     no-repeat;
   background-position: center;
   background-size: cover;
@@ -233,7 +233,7 @@ section{
 /* skladniki aktywne */
 .es-ingr {
   min-height: 600px;
-  background-image: url(img/SKŁADNIKI-AKTYWNE.png);
+  background-image: url(img/SKLADNIKI-AKTYWNE.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
